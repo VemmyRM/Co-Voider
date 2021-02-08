@@ -21,7 +21,7 @@ app.appendChild(container1);
 // request.open('GET', 'https://besttime.app/api/v1/venues/ven_386c4e7576345052562d6c526b49315254674c464834674a496843&api_key_public=pub_e4225e42acc64ab49f7625f477e0d2a5')
 
 var params = {
-    'api_key_private': 'pri_d07bd6b0c76442cebc9c0d91cd5b9700',
+    'api_key_private': 'KEY',
     'venue_name': 'Moo Shu Ice Cream & Kitchen',
     'venue_address': 'Banks St, Ottawa'
 }
